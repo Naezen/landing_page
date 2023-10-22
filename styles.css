@@ -1,0 +1,32 @@
+#body {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.nav {
+    display: flex;
+    border: solid red;
+    height: 50px;
+    background-color: #1f2937;
+    align-items: center;
+    width: auto;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.nav-item:first-child {
+    margin-right: auto;
+    font-size: 24px;
+    color: #f9faf8;
+    padding: 10px;
+}
+
+.nav-item {
+    color: #e5e7eb;
+    padding: 10px;
+}
+
