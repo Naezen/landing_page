@@ -30,3 +30,51 @@
     padding: 10px;
 }
 
+.hero-main {
+    background-color: #1f2937;
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+    border: red solid;
+}
+
+.hero-left {
+    width: 49%;
+    border: red solid;
+}
+
+.hero-right {
+    border: red solid;
+    width: 49%;
+}
+
+.hero-head {
+    color: #f9faf8;
+    font-size: 48px;
+}
+
+.hero-sub {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.button {
+    color: #f9faf8;
+    background-color: #3882f6;
+    border-radius: 5px;
+
+}
+
+.placeholder {
+    background-color: #e5e7eb;
+    font-size: 18px;
+    color: black;
+    width: auto;
+    height: 150px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
